@@ -2,3 +2,7 @@
     color: var(--primeira-color);
     font-weight: bold;
 }
+
+.navbar-brand {
+    font-weight: bold;
+}

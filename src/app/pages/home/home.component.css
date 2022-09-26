@@ -12,9 +12,10 @@
 }
 
 .content h1 {
-    color: blueviolet;
+    color: #9c2be2;
     font-size: 60px;
     font-weight: bold;
+    padding-top: 103px;
 }
 
 .content a {
